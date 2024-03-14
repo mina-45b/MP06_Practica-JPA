@@ -1,3 +1,11 @@
+#Práctica JPA
+
+Este proyecto en una conversión de la práctica JDBC,consiste en un sistema de gestión de datos para la Tabla Periódica, centrado en la información de elementos químicos, series, estados y compuestos.
+
+## Requisitos
+- Java 8 o superior
+- Base de datos PostgreSQL instalada y configurada
+
 
 ## Diagrama
 
