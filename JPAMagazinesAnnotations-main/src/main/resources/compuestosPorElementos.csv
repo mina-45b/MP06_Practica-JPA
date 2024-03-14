@@ -1,0 +1,291 @@
+1,Acetaldehído,6,C,2
+1,Acetaldehído,8,O,1
+1,Acetaldehído,1,H,4
+2,Acetamida,6,C,2
+2,Acetamida,8,O,1
+2,Acetamida,7,N,1
+2,Acetamida,1,H,5
+3,Acetato de metilo,6,C,3
+3,Acetato de metilo,8,O,2
+3,Acetato de metilo,1,H,6
+4,Acetato de amonio,8,O,2
+4,Acetato de amonio,6,C,2
+4,Acetato de amonio,7,N,1
+4,Acetato de amonio,1,H,7
+5,Acetato de plomo(II),82,Pb,1
+5,Acetato de plomo(II),8,O,4
+5,Acetato de plomo(II),6,C,4
+5,Acetato de plomo(II),1,H,6
+6,Acetato de plomo(IV),82,Pb,1
+6,Acetato de plomo(IV),8,O,8
+6,Acetato de plomo(IV),6,C,8
+6,Acetato de plomo(IV),1,H,12
+7,Acetato de sodio,8,O,2
+7,Acetato de sodio,6,C,2
+7,Acetato de sodio,11,Na,1
+7,Acetato de sodio,1,H,3
+8,Acetona,6,C,3
+8,Acetona,8,O,1
+8,Acetona,1,H,6
+9,Acetonitrilo,6,C,2
+9,Acetonitrilo,7,N,1
+9,Acetonitrilo,1,H,3
+10,Ácido acético,8,O,2
+10,Ácido acético,6,C,2
+10,Ácido acético,1,H,4
+11,Ácido bromhídrico,35,Br,1
+11,Ácido bromhídrico,1,H,1
+12,Ácido butírico,6,C,4
+12,Ácido butírico,8,O,2
+12,Ácido butírico,1,H,8
+13,Ácido cianhídrico,1,H,1
+13,Ácido cianhídrico,6,C,1
+13,Ácido cianhídrico,7,N,1
+14,Ácido cítrico,6,C,6
+14,Ácido cítrico,1,H,8
+14,Ácido cítrico,8,O,7
+15,Ácido clorhídrico,1,H,1
+15,Ácido clorhídrico,17,Cl,1
+16,Ácido cloroacético,17,Cl,1
+16,Ácido cloroacético,8,O,2
+16,Ácido cloroacético,6,C,2
+16,Ácido cloroacético,1,H,3
+17,Ácido cloroplatínico,17,Cl,6
+17,Ácido cloroplatínico,78,Pt,1
+17,Ácido cloroplatínico,1,H,2
+18,Ácido dicloroacético,17,Cl,2
+18,Ácido dicloroacético,8,O,2
+18,Ácido dicloroacético,6,C,2
+18,Ácido dicloroacético,1,H,2
+19,Ácido fluorhídrico,9,F,1
+19,Ácido fluorhídrico,1,H,
+20,Ácido fórmico,8,O,2
+20,Ácido fórmico,6,C,1
+20,Ácido fórmico,1,H,2
+21,Ácido fosfórico,8,O,4
+21,Ácido fosfórico,15,P,1
+21,Ácido fosfórico,1,H,3
+22,Ácido hexafluorosilícico,9,F,6
+22,Ácido hexafluorosilícico,14,Si,1
+22,Ácido hexafluorosilícico,1,H,2
+23,Ácido láctico,8,O,3
+23,Ácido láctico,6,C,3
+23,Ácido láctico,1,H,6
+24,Ácido maleico,8,O,4
+24,Ácido maleico,6,C,4
+24,Ácido maleico,1,H,4
+25,Ácido malónico,8,O,4
+25,Ácido malónico,6,C,3
+25,Ácido malónico,1,H,4
+26,Ácido nítrico,8,O,3
+26,Ácido nítrico,7,N,1
+26,Ácido nítrico,1,H,1
+27,Ácido oxálico,8,O,4
+27,Ácido oxálico,6,C,2
+27,Ácido oxálico,1,H,2
+28,Ácido perclórico,8,O,4
+28,Ácido perclórico,17,Cl,1
+28,Ácido perclórico,1,H,1
+29,Ácido sulfúrico,8,O,4
+29,Ácido sulfúrico,16,S,1
+29,Ácido sulfúrico,1,H,2
+30,Ácido sulfuroso,8,O,3
+30,Ácido sulfuroso,16,S,1
+30,Ácido sulfuroso,1,H,2
+31,Ácido tartárico,8,O,6
+31,Ácido tartárico,6,C,4
+31,Ácido tartárico,1,H,6
+32,Ácido tetracloroáurico,79,Au,1
+32,Ácido tetracloroáurico,17,Cl,4
+32,Ácido tetracloroáurico,1,H,1
+33,Ácido tricloroacético,17,Cl,3
+33,Ácido tricloroacético,8,O,2
+33,Ácido tricloroacético,6,C,2
+33,Ácido tricloroacético,1,H,1
+34,Ácido yodhídrico,53,I,1
+34,Ácido yodhídrico,1,H,1
+35,Ácido yódico,53,I,1
+35,Ácido yódico,8,O,3
+35,Ácido yódico,1,H,1
+36,Amoníaco,7,N,1
+36,Amoníaco,1,H,3
+37,Arseniato de sodio,33,As,1
+37,Arseniato de sodio,11,Na,3
+37,Arseniato de sodio,8,O,4
+38,Bicarbonato de potasio,8,O,3
+38,Bicarbonato de potasio,19,K,1
+38,Bicarbonato de potasio,6,C,1
+38,Bicarbonato de potasio,1,H,1
+39,Bromato de potasio,35,Br,1
+39,Bromato de potasio,8,O,3
+39,Bromato de potasio,19,K,1
+40,Bromuro de potasio,35,Br,1
+40,Bromuro de potasio,19,K,1
+41,Bromuro de sodio,35,Br,1
+41,Bromuro de sodio,11,Na,1
+42,Bromuro de zinc,35,Br,2
+42,Bromuro de zinc,30,Zn,1
+43,Butan-1-ol,6,C,4
+43,Butan-1-ol,8,O,1
+43,Butan-1-ol,1,H,10
+44,Carbonato de amonio,8,O,3
+44,Carbonato de amonio,7,N,2
+44,Carbonato de amonio,6,C,1
+44,Carbonato de amonio,1,H,8
+45,Carbonato de potasio,19,K,2
+45,Carbonato de potasio,8,O,3
+45,Carbonato de potasio,6,C,1
+46,Carbonato de sodio,8,O,3
+46,Carbonato de sodio,11,Na,2
+46,Carbonato de sodio,6,C,1
+47,Cianuro de potasio,19,K,1
+47,Cianuro de potasio,7,N,1
+47,Cianuro de potasio,6,C,1
+48,Citrato de sodio,8,O,7
+48,Citrato de sodio,6,C,6
+48,Citrato de sodio,11,Na,3
+48,Citrato de sodio,1,H,5
+49,Clorato de potasio,8,O,3
+49,Clorato de potasio,19,K,1
+49,Clorato de potasio,17,Cl,1
+50,Clorato de sodio,8,O,3
+50,Clorato de sodio,17,Cl,1
+50,Clorato de sodio,11,Na,1
+51,Cloroformo,17,Cl,3
+51,Cloroformo,6,C,1
+51,Cloroformo,1,H,1
+52,Cloruro de aluminio,17,Cl,3
+52,Cloruro de aluminio,13,Al,1
+53,Cloruro de amonio,17,Cl,1
+53,Cloruro de amonio,7,N,1
+53,Cloruro de amonio,1,H,4
+54,Cloruro de antimonio(V),51,Sb,1
+54,Cloruro de antimonio(V),17,Cl,3
+55,Cloruro de antimonio(V),17,Cl,5
+55,Cloruro de antimonio(V),51,Sb,1
+56,Cloruro de bario,56,Ba,1
+56,Cloruro de bario,17,Cl,2
+57,Cloruro de bismuto(III),83,Bi,1
+57,Cloruro de bismuto(III),17,Cl,3
+58,Cloruro de calcio,17,Cl,2
+58,Cloruro de calcio,20,Ca,1
+59,Cloruro de cromo(III),17,Cl,3
+59,Cloruro de cromo(III),24,Cr,1
+60,Cloruro de hierro(III),17,Cl,3
+60,Cloruro de hierro(III),26,Fe,1
+61,Cloruro de litio,17,Cl,1
+61,Cloruro de litio,3,Li,1
+62,Cloruro de magnesio,17,Cl,2
+62,Cloruro de magnesio,12,Mg,1
+63,Cloruro de manganeso(II),17,Cl,2
+63,Cloruro de manganeso(II),25,Mn,1
+64,Cloruro de mercurio(II),80,Hg,1
+64,Cloruro de mercurio(II),17,Cl,2
+65,Cloruro de niquel,17,Cl,2
+65,Cloruro de niquel,28,Ni,1
+66,Cloruro de plomo(II),82,Pb,1
+66,Cloruro de plomo(II),17,Cl,2
+67,Cloruro de potasio,19,K,1
+67,Cloruro de potasio,17,Cl,1
+68,Cloruro de cobre(I),29,Cu,2
+68,Cloruro de cobre(I),17,Cl,2
+69,Cloruro de cobre(II),17,Cl,2
+69,Cloruro de cobre(II),29,Cu,1
+70,Cloruro de sodio,17,Cl,1
+70,Cloruro de sodio,11,Na,1
+71,Cloruro de estaño(II),50,Sn,1
+71,Cloruro de estaño(II),17,Cl,2
+72,Cloruro de estaño(IV),17,Cl,4
+72,Cloruro de estaño(IV),50,Sn,1
+73,Cloruro de estroncio,38,Sr,1
+73,Cloruro de estroncio,17,Cl,2
+74,Cloruro de zinc,17,Cl,2
+74,Cloruro de zinc,30,Zn,1
+75,Cromato de potasio,19,K,2
+75,Cromato de potasio,8,O,4
+75,Cromato de potasio,24,Cr,1
+76,Cromato de sodio,8,O,4
+76,Cromato de sodio,24,Cr,1
+76,Cromato de sodio,11,Na,2
+77,Dicromato de amonio,8,O,7
+77,Dicromato de amonio,24,Cr,2
+77,Dicromato de amonio,7,N,2
+77,Dicromato de amonio,1,H,8
+78,Dicromato de potasio,8,O,7
+78,Dicromato de potasio,24,Cr,2
+78,Dicromato de potasio,19,K,2
+79,Dicromato de sodio,8,O,7
+79,Dicromato de sodio,24,Cr,2
+79,Dicromato de sodio,11,Na,2
+80,Dihidrogenofosfato de potasio,8,O,4
+80,Dihidrogenofosfato de potasio,19,K,1
+80,Dihidrogenofosfato de potasio,15,P,1
+80,Dihidrogenofosfato de potasio,1,H,2
+81,Dihidrogenofosfato de sodio,8,O,4
+81,Dihidrogenofosfato de sodio,15,P,1
+81,Dihidrogenofosfato de sodio,11,Na,1
+81,Dihidrogenofosfato de sodio,1,H,2
+82,Dimetilglioxima,6,C,4
+82,Dimetilglioxima,8,O,2
+82,Dimetilglioxima,7,N,2
+82,Dimetilglioxima,1,H,8
+83,Disodio EDTA,8,O,8
+83,Disodio EDTA,6,C,10
+83,Disodio EDTA,11,Na,2
+83,Disodio EDTA,7,N,2
+83,Disodio EDTA,1,H,14
+84,Disulfuro de carbono,16,S,2
+84,Disulfuro de carbono,6,C,1
+85,Etanol,6,C,2
+85,Etanol,8,O,1
+85,Etanol,1,H,6
+86,Éter etílico,6,C,4
+86,Éter etílico,8,O,1
+86,Éter etílico,1,H,10
+87,Etilenglicol,8,O,2
+87,Etilenglicol,6,C,2
+87,Etilenglicol,1,H,6
+88,Fenol,6,C,6
+88,Fenol,8,O,1
+88,Fenol,1,H,6
+89,Formaldehído,8,O,1
+89,Formaldehído,6,C,1
+89,Formaldehído,1,H,2
+90,Formiato de sodio,8,O,2
+90,Formiato de sodio,11,Na,1
+90,Formiato de sodio,6,C,1
+90,Formiato de sodio,1,H,1
+91,Fosfato de sodio,11,Na,3
+91,Fosfato de sodio,8,O,4
+91,Fosfato de sodio,15,P,1
+92,Fructosa,8,O,6
+92,Fructosa,6,C,6
+92,Fructosa,1,H,12
+93,Glicerol,8,O,3
+93,Glicerol,6,C,3
+93,Glicerol,1,H,8
+94,Glucosa,8,O,6
+94,Glucosa,6,C,6
+94,Glucosa,1,H,12
+95,Hexacianoferrato(II) de potasio,19,K,4
+95,Hexacianoferrato(II) de potasio,7,N,6
+95,Hexacianoferrato(II) de potasio,6,C,6
+95,Hexacianoferrato(II) de potasio,26,Fe,1
+96,Hexacianoferrato(III) de potasio,19,K,3
+96,Hexacianoferrato(III) de potasio,7,N,6
+96,Hexacianoferrato(III) de potasio,6,C,6
+96,Hexacianoferrato(III) de potasio,26,Fe,1
+97,Hidrazina,7,N,2
+97,Hidrazina,1,H,4
+98,Hidrogenocarbonato de sodio,8,O,3
+98,Hidrogenocarbonato de sodio,11,Na,1
+98,Hidrogenocarbonato de sodio,6,C,1
+98,Hidrogenocarbonato de sodio,1,H,1
+99,Hidrogenofosfato de potasio,19,K,2
+99,Hidrogenofosfato de potasio,8,O,4
+99,Hidrogenofosfato de potasio,15,P,1
+99,Hidrogenofosfato de potasio,1,H,1
+100,Hidrogenofosfato de sodio,8,O,4
+100,Hidrogenofosfato de sodio,11,Na,2
+100,Hidrogenofosfato de sodio,15,P,1
+100,Hidrogenofosfato de sodio,1,H,1

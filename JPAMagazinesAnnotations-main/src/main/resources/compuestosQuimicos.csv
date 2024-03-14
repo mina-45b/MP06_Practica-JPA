@@ -1,0 +1,176 @@
+1,Acetaldehído,C2H4O,44053,0-30% (18°C)
+2,Acetamida,C2H5NO,59068,0-6% (15°C)
+3,Acetato de metilo,C3H6O2,74079,0-20% (20°C)
+4,Acetato de amonio,CH3COONH4,77083,0-45% (25°C)
+5,Acetato de plomo(II),Pb(C2H3O2)2,325.3,
+6,Acetato de plomo(IV),Pb(C2H3O2)4,443.4,
+7,Acetato de sodio,NaC2H3O2,82.03,0-28% (20°C)
+8,Acetona,C3H6O,58080,0-100% (20°C)
+9,Acetonitrilo,C2H3N,41053,0-16% (15°C)
+10,Ácido acético,CH3COOH,60052,0-100% (20°C)
+11,Ácido bromhídrico,HBr,80912,0-65% (25°C)
+12,Ácido butírico,C4H8O2,88106,0-62% (25°C)
+13,Ácido cianhídrico,HCN,27026,0-16% (15°C)
+14,Ácido cítrico,C6H8O7,192123,0-55% (20°C)
+15,Ácido clorhídrico,HCl,36.46,0-40% (20°C)
+16,Ácido cloroacético,C2H3ClO2,94.49,0-32% (20°C)
+17,Ácido cloroplatínico,H2PtCl6,409.80,
+18,Ácido dicloroacético,C2H2Cl2O2,128.94,0-30% (20°C)
+19,Ácido fluorhídrico,HF,20006,0-50% (20°C)
+20,Ácido fórmico,CH2O2,46025,0-100% (20°C)
+21,Ácido fosfórico,H3PO4,97994,0-100% (20°C)
+22,Ácido hexafluorosilícico,H2SiF6,144089,0-34% (17.5°C)
+23,Ácido láctico,C3H6O3,90078,0-80% (20°C)
+24,Ácido maleico,C4H4O4,116072,0-40% (25°C)
+25,Ácido malónico,C3H4O4,104061,0-40% (20°C)
+26,Ácido nítrico,HNO3,63012,0-100% (20°C)
+27,Ácido oxálico,H2C2O4,90034,0-10% (17.5°C)
+28,Ácido perclórico,HClO4,100.45,0-70% (15°C)
+29,Ácido sulfúrico,H2SO4,98.07,0-100% (20°C)
+30,Ácido sulfuroso,H2SO3,82.07,
+31,Ácido tartárico,H2C4H4O6,150086,0-56% (15°C)
+32,Ácido tetracloroáurico,HAuCl4,339.78,
+33,Ácido tricloroacético,CCl3COOH,163.38,0-48% (20°C)
+34,Ácido yodhídrico,HI,127.9,
+35,Ácido yódico,HIO3,175.9,
+36,Amoníaco,NH3,17031,0-30% (20°C)
+37,Arseniato de sodio,Na3AsO4,207.89,0-12% (17°C)
+38,Bicarbonato de potasio,KHCO3,100114,0-24% (15°C)
+39,Bromato de potasio,KBrO3,166999,
+40,Bromuro de potasio,KBr,119002,0-40% (20°C)
+41,Bromuro de sodio,NaBr,102.89,0-40% (20°C)
+42,Bromuro de zinc,ZnBr2,225.19,0-65% (20°C)
+43,Butan-1-ol,C4H10O,74123,0-8% (20°C)
+44,Carbonato de amonio,(NH4)2CO3,96086,
+45,Carbonato de potasio,K2CO3,138204,0-50% (20°C)
+46,Carbonato de sodio,Na2CO3,105.99,0-14% (20°C)
+47,Cianuro de potasio,KCN,65116,
+48,Citrato de sodio,Na3C6H5O7,258.07,0-36% (20°C)
+49,Clorato de potasio,KClO3,122.55,0-4% (20°C)
+50,Clorato de sodio,NaClO3,106.44,0-34% (18°C)
+51,Cloroformo,CHCl3,119.37,
+52,Cloruro de aluminio,AlCl3,133.33,0-40% (15°C)
+53,Cloruro de amonio,NH4Cl,53.49,0-24% (20°C)
+54,Cloruro de antimonio(III),SbCl3,228.11,
+55,Cloruro de antimonio(V),SbCl5,299.01,
+56,Cloruro de bario,BaCl2,208.23,0-26% (20°C)
+57,Cloruro de bismuto(III),BiCl3,315.33,
+58,Cloruro de calcio,CaCl2,110.98,0-40% (20°C)
+59,Cloruro de cromo(III),CrCl3,158.35,0-14% (18°C)
+60,Cloruro de hierro(III),FeCl3,162.20,0-50% (20°C)
+61,Cloruro de litio,LiCl,42.39,0-30% (20°C)
+62,Cloruro de magnesio,MgCl2,95.21,0-30% (20°C)
+63,Cloruro de manganeso(II),MnCl2,125.84,
+64,Cloruro de mercurio(II),HgCl2,271.49,
+65,Cloruro de niquel,NiCl2,129.59,0-30% (18°C)
+66,Cloruro de plomo(II),PbCl2,278.1,
+67,Cloruro de potasio,KCl,74.55,0-24% (20°C)
+68,Cloruro de cobre(I),Cu2Cl2,197.99,0-20% (20°C)
+69,Cloruro de cobre(II),CuCl2,134.45,0-20% (20°C)
+70,Cloruro de sodio,NaCl,58.44,0-26% (20°C)
+71,Cloruro de estaño(II),SnCl2,189.61,0-65% (15°C)
+72,Cloruro de estaño(IV),SnCl4,260.51,0-70% (15°C)
+73,Cloruro de estroncio,SrCl2,158.52,0-36% (20°C)
+74,Cloruro de zinc,ZnCl2,136.28,0-70% (20°C)
+75,Cromato de potasio,K2CrO4,194188,0-30% (18°C)
+76,Cromato de sodio,Na2CrO4,161.97,0-26% (18°C)
+77,Dicromato de amonio,(NH4)2Cr2O7,252063,0-20% (12°C)
+78,Dicromato de potasio,K2Cr2O7,294181,0-10% (20°C)
+79,Dicromato de sodio,Na2Cr2O7,261.97,0-50% (15°C)
+80,Dihidrogenofosfato de potasio,KH2PO4,136084,0-10% (20°C)
+81,Dihidrogenofosfato de sodio,NaH2PO4,119.98,0-40% (20°C)
+82,Dimetilglioxima,(CH3CNOH)2,116120,
+83,Disodio EDTA,Na2C10H14N2O8,336.21,0-6% (20°C)
+84,Disulfuro de carbono,CS2,76.13,
+85,Etanol,C2H5OH,46069,0-100% (20°C)
+86,Éter etílico,(C2H5)2O,74123,0-5% (20°C)
+87,Etilenglicol,(CH2OH)2,62068,0-60% (20°C)
+88,Fenol,C6H6O,94113,0-5% (15°C)
+89,Formaldehído,CH2O,30026,0-40% (15°C)
+90,Formiato de sodio,HCOONa,68.01,0-40% (25°C)
+91,Fosfato de sodio,Na3PO4,163.94,0-8% (20°C)
+92,Fructosa,C6H12O6,180156,0-48% (20°C)
+93,Glicerol,C3H8O3,92094,0-100% (20°C)
+94,Glucosa,C6H12O6,180156,0-60% (20°C)
+95,Hexacianoferrato(II) de potasio,K4Fe(CN)6,368345,
+96,Hexacianoferrato(III) de potasio,K3Fe(CN)6,329247,
+97,Hidrazina,N2H4,32046,0-60% (15°C)
+98,Hidrogenocarbonato de sodio,NaHCO3,84.01,0-6% (20°C)
+99,Hidrogenofosfato de potasio,K2HPO4,174174,0-8% (20°C)
+100,Hidrogenofosfato de sodio,Na2HPO4,141.96,0-6% (20°C)
+101,Hidrogenotartrato di sodio,NaHC4H4O6,172.07,
+102,Hidróxido de amonio,NH4OH,35046,0-62% (20°C)
+103,Hidróxido de bario,Ba(OH)2,171.34,
+104,Hidróxido de calcio,Ca(OH)2,74092,
+105,Hidróxido de potasio,KOH,56105,0-50% (15°C)
+106,Hidróxido de sodio,NaOH,40.00,0-50% (20°C)
+107,Yodato de potasio,KIO3,214.0,
+108,Ioduro de potasio,KI,166.0,0-55% (20°C)
+109,Isobutanol,C4H10O,74123,0-8% (20°C)
+110,Lactosa,C12H22O11,342297,0-18% (20°C)
+111,Maltosa,C12H22O11,342297,0-60% (20°C)
+112,Manitol,C6H14O6,182172,0-15% (20°C)
+113,Metanol,CH3OH,32042,0-100% (15°C)
+114,Nicotina,C10H14N2,162236,0-60% (20°C)
+115,Nitrato de aluminio,Al(NO3)3,212994,
+116,Nitrato de amonio,NH4NO3,80043,0-50% (20°C)
+117,Nitrato de plata,AgNO3,169.87,0-40% (20°C)
+118,Nitrato de bario,Ba(NO3)2,261.34,
+119,Nitrato de bismuto(III),Bi(NO3)3,394.99,
+120,Nitrato de cadmio,Cd(NO3)2,236.42,0-50% (18°C)
+121,Nitrato de calcio,Ca(NO3)2,164086,0-68% (18°C)
+122,Nitrato de cobalto(II),Co(NO3)2,182941,
+123,Nitrato de cromo(III),Cr(NO3)3,238008,
+124,Nitrato de hierro(III),Fe(NO3)3,241857,0-25% (18°C)
+125,Nitrato de magnesio,Mg(NO3)2,148313,
+126,Nitrato de mercurio(II),Hg(NO3)2,324.60,
+127,Nitrato de niquel,Ni(NO3)2,182701,0-35% (20°C)
+128,Nitrato de plomo(II),Pb(NO3)2,331.2,
+129,Nitrato de potasio,KNO3,101102,0-24% (20°C)
+130,Nitrato de cobre(II),Cu(NO3)2,187554,0-25% (20°C)
+131,Nitrato de sodio,NaNO3,84.99,0-45% (20°C)
+132,Nitrato de estroncio,Sr(NO3)2,211.63,
+133,Nitrato de zinc,Zn(NO3)2,189.39,0-50% (18°C)
+134,Nitrito potasio,KNO2,85103,
+135,Nitrito sodio,NaNO2,69.00,0-20% (15°C)
+136,Oxalato de amonio,(NH4)2C2O4,124096,
+137,Óxido de cromo(VI),CrO3,99993,0-60% (15°C)
+138,Pentan-1-ol,C5H11OH,88150,
+139,Permanganato de potasio,KMnO4,158032,0-6% (20°C)
+140,Peróxido de hidrógeno,H2O2,34014,0-100% (18°C)
+141,Piridina,C5H5N,79102,0-60% (25°C)
+142,Propan-1-ol,CH3CH2CH2OH,60096,0-100% (15°C)
+143,Propan-2-ol,CH3CHOHCH3,60096,0-100% (20°C)
+144,Resorcinol,C6H6O2,110112,0-52% (18°C)
+145,Sacarosa,C12H22O11,342297,0-89% (20°C)
+146,Sulfato de aluminio,Al2(SO4)3,342132,0-26% (15°C)
+147,Sulfato de amonio,(NH4)2SO4,132.13,0-50% (20°C)
+148,Sulfato de plata,Ag2SO4,311.80,
+149,Sulfato de cadmio,CdSO4,208.47,
+150,Sulfato de calcio,CaSO4,136.13,
+151,Sulfato de cobalto(II),CoSO4,154.99,
+152,Sulfato de cromo(III),Cr2(SO4)3,392.16,0-40% (15°C)
+153,Sulfato de hierro(II),FeSO4,151.90,0-20% (18°C)
+154,Sulfato de hierro(III),Fe2(SO4)3,399.86,0-20% (17.5°C)
+155,Sulfato de magnesio,MgSO4,120.36,0-26% (20°C)
+156,Sulfato de manganeso(II),MnSO4,150.99,0-30% (20°C)
+157,Sulfato de mercurio(II),HgSO4,296.65,
+158,Sulfato de niquel,NiSO4,154.75,0-18% (18°C)
+159,Sulfato de potasio,K2SO4,174.25,0-10% (20°C)
+160,Sulfato de cobre(II),CuSO4,159.60,0-20% (18°C)
+161,Sulfato de sodio,Na2SO4,142.04,0-24% (20°C)
+162,Sulfato de estroncio,SrSO4,183.68,
+163,Sulfato de zinc,ZnSO4,161.44,0-16% (20°C)
+164,Sulfito de potasio,K2SO3,158.25,0-26% (15°C)
+165,Sulfito de sodio,Na2SO3,126.04,0-18% (19°C)
+166,Sulfuro de sodio,Na2S,78.04,0-18% (18°C)
+167,Sulfato de hierro(II) y amonio,FeSO4+(NH4)2SO4,284.04,
+168,Tartrato de potasio y sodio,NaKC4H4O6,210.16,0-36% (20°C)
+169,Tartrato de potasio,K2C4H4O6,226266,0-50% (20°C)
+170,Tartrato de sodio,Na2C4H4O6,194.05,0-28% (20°C)
+171,Tiocianato de potasio,KCNS,97.18,
+172,Tiosulfato de sodio,Na2S2O3,158.10,0-40% (20°C)
+173,Tiourea,CH4N2S,76.12,0-7% (15°C)
+174,TRIS,(HOCH2)3CNH2,121136,0-40% (20°C)
+175,Urea,(NH2)2CO,60056,0-46% (20°C)
+176,Uretano,C3H7NO2,89094,0-56% (20°C)
