@@ -52,10 +52,9 @@ erDiagram
     ChemicalElement ||--o| Serie : "belongs to"
     ChemicalCompounds ||--|{ CompoundElement : "contains"
 
-## Tablas
+```
 
 ## Tablas
-
 ## Tabla de Estructura de la Tabla "estados"
 
 | Column   |          Type          | Collation | Nullable | Default |
